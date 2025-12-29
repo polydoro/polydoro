@@ -1,9 +1,7 @@
 ---
-layout: home
+layout: page
 title: Angelo Polydoro
 ---
-
-# Angelo Polydoro
 
 **Applied Macroeconomics · Incomplete Information · Formal Verification**
 
