@@ -1,0 +1,26 @@
+---
+layout: home
+title: Angelo Polydoro
+---
+
+# Angelo Polydoro
+
+**Applied Macroeconomics · Incomplete Information · Formal Verification**
+
+## Position & Education
+
+Macroeconomist at Absolute Investments.  
+PhD in Economics, University of Rochester.
+
+- GitHub: https://github.com/polydoro  
+- LinkedIn: https://www.linkedin.com/in/<your-linkedin-handle>
+
+## Interests
+
+- Incomplete-information HANK models  
+- Non-Bayesian beliefs  
+- Formal methods (Lean / theorem proving)
+
+🌿 *Leaves may be sorry. Branches must be certain.*  
+*Promotion eliminates apology.*  
+*Certification tolerates none.*
