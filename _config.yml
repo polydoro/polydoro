@@ -6,3 +6,4 @@ minima:
   skin: classic
 
 markdown: kramdown
+header_pages: []
