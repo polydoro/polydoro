@@ -1,8 +1,3 @@
----
-layout: page
-title: Angelo Polydoro
----
-
 **Applied Macroeconomics · Incomplete Information · Formal Verification**
 
 ## Position & Education
